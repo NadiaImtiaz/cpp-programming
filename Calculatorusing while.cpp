@@ -15,5 +15,5 @@ int main()
 		cout<<"Press 1 to continue any other key to stop" <<endl;
 		cin>>i;		
 	}	
-	cout<<"Thank u forr using program";		
+	cout<<"Thank u for using program";		
 }
