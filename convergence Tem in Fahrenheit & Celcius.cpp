@@ -2,7 +2,7 @@
 using namespace std;
 int main()
 {
-	char i=89;
+	int i=89;
 	while(i==89)
 	{
 		int number;
